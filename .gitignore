@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/notInSourceControl/App.config
+/notInSourceControl/copyAppConfig.bat
+/notInSourceControl/ReadMe.txt
