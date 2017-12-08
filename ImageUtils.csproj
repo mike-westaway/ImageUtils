@@ -117,15 +117,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="App.config.template.config" />
-    <None Include="notInSourceControl\App.config" />
-    <None Include="notInSourceControl\copyAppConfig.bat" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="notInSourceControl\ReadMe.txt" />
     <Content Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
