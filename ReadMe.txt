@@ -1,5 +1,8 @@
 ﻿https://docs.microsoft.com/en-gb/azure/cognitive-services/computer-vision/quickstarts/csharp#text-recognition-with-computer-vision-api-using-c-a-namerecognizetext-a
 
+[remote "origin"]
+        url = https://github.com/mike-westaway/DigitalNumberImageToText.git
+
 The resolution of the image will significantly affect the accuracy of character recognition.
 
 Example output when the image is reduced by a factor of 4.
