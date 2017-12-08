@@ -41,6 +41,7 @@ namespace DigitalNumberImageToText
 
         static void Main()
         {
+            ConfigurationManager.RefreshSection("AppSettings");
             string subscriptionKey = ConfigurationManager.AppSettings["TextAnalyticsKey"];
             string imageFilePath = ConfigurationManager.AppSettings["FileName"];
 

@@ -115,6 +115,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="App.config.template.config" />
     <None Include="packages.config" />
   </ItemGroup>
